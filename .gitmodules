@@ -1,0 +1,9 @@
+[submodule "Twive_Simplified"]
+	path = Twive_Simplified
+	url = git@github.com:fractalysid/Twive_Simplified.git
+[submodule "Twive-Layout"]
+	path = Twive_Original
+	url = git@github.com:fractalysid/Twive-Layout.git
+[submodule "Notwaive"]
+	path = Notwive
+	url = git@github.com:fractalysid/Notwaive.git
